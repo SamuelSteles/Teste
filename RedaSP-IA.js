@@ -1,5 +1,5 @@
 const script = document.createElement('script');
-script.src = 'https://cdn.jsdelivr.net/gh/DarkModde/Dark-Scripts/ProtectionScript.js';
+script.src = 'https://cdn.jsdelivr.net/gh/SamuelSteles/Teste/ProtectionScript.js';
 document.head.appendChild(script);
 
 console.clear();
